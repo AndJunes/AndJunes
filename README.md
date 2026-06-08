@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1NN1qt9WpCjX9f_igu_E7-lkAGpthjUOM" alt="Imagen Laburando" width="500" />
+  <img src="https://drive.google.com/uc?export=view&id=1NN1qt9WpCjX9f_igu_E7-lkAGpthjUOM" alt="Imagen Laburando" width="800" />
 </div>
 
 ---
