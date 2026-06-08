@@ -18,16 +18,6 @@
 
 </div>
 
-### Atlas · Final Capstone
-
-Full-stack project management platform — **41 REST endpoints, ~17K lines of TypeScript, 321 tests (TDD)**. Field-level audit log, drag-and-drop Kanban with optimistic UI and rollback, hardened JWT a[...]
-
-`NestJS` `Angular` `PostgreSQL` `TypeORM` `Docker` `Nginx` `PM2` `Jest`
-
-[Live demo](https://atlas-frontend-als.pages.dev) · [Source](https://github.com/AndJunes/TPF-Des-App-Web)
-
----
-
 ### Brújula · Fintech / Escrow on Stellar
 
 Freelancer payments held in **USDC escrow on the Stellar network** until the client approves the work — clients fund and release escrow from their Freighter wallet without touching the underlying sm[...]
