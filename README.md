@@ -58,7 +58,7 @@ Freelancer payments held in **USDC escrow on the Stellar network** until the cli
   <img alt="Trustless Work API" src="https://img.shields.io/badge/Trustless_Work_API-111827?style=flat-square" />
 </p>
 
-[**Live demo**](https://brujula-dev.vercel.app) &nbsp;·&nbsp; [**Source**](https://github.com/AndJunes/brujulaDev)
+[**Live demo**](https://www.agentbrujula.com/) &nbsp;·&nbsp; [**Source**](https://github.com/jubitcode/agentbrujula)
 
 <br/>
 
