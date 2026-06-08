@@ -42,7 +42,7 @@ Freelancer payments held in **USDC escrow on the Stellar network** until the cli
 
 ## Technology Stack
 
-<img src="https://drive.google.com/uc?export=view&id=19ok7EfAYTPMVgmwU4RIdH4sCl-khxNuU" alt="Technology Stack" width="800" />
+<img src="https://drive.google.com/uc?export=view&id=19ok7EfAYTPMVgmwU4RIdH4sCl-khxNuU" alt="Technology Stack" width="1000" />
 
 </div>
 ---
