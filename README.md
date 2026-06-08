@@ -28,16 +28,6 @@ Full-stack project management platform — **41 REST endpoints, ~17K lines of Ty
 
 ---
 
-### Chanchis · 1st Place — Celo Blockchain Hackathon 🏆
-
-Unified reward wallet that helps users save on everyday purchases. **Selected over the rest of the cohort by the judging panel.**
-
-`TypeScript` `Next.js` `Celo` `Web3`
-
-[Live demo](https://chanchis-h3l10w3f7-andreas-projects-2ce00c0e.vercel.app/) · [Source](https://github.com/AndJunes/chanchis-miniapp) · [Verified by @CeloMexico](https://x.com/celomexico/status/1998997617301143947)
-
----
-
 ### Brújula · Fintech / Escrow on Stellar
 
 Freelancer payments held in **USDC escrow on the Stellar network** until the client approves the work — clients fund and release escrow from their Freighter wallet without touching the underlying smart contracts.
@@ -46,15 +36,6 @@ Freelancer payments held in **USDC escrow on the Stellar network** until the cli
 
 [Live demo](https://brujula-dev.vercel.app) · [Source](https://github.com/AndJunes/brujulaDev)
 
----
-
-### Kurai · Search & Information Retrieval
-
-Metasearch service in **Go** that wraps SearXNG and re-ranks results with Reciprocal Rank Fusion across domain authority, query coverage, NLP entity recognition and content-farm detection.
-
-`Go` `SearXNG` `BLAKE3` `Reciprocal Rank Fusion`
-
----
 ---
 <div align="center">
 
