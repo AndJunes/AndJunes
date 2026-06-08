@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm Andrea</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=48&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=100&lines=FULL+STACK+ENGINEER" />
+</p>
 
 
 <p align="left" style=">
