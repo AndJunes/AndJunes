@@ -1,76 +1,137 @@
 <h1 align="center">Hi, I'm Andrea</h1>
 <svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
-<linearGradient id="blueGlow" x1="0" y1="0" x2="1600" y2="0">
-  <stop offset="0%" stop-color="#2563EB"/>
-  <stop offset="50%" stop-color="#60A5FA"/>
-  <stop offset="100%" stop-color="#2563EB"/>
-</linearGradient>
 
-<filter id="glow">
-  <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
-  <feMerge>
-    <feMergeNode in="coloredBlur"/>
-    <feMergeNode in="SourceGraphic"/>
-  </feMerge>
-</filter>
+  <defs>
 
-<pattern id="stripes" width="16" height="16" patternUnits="userSpaceOnUse">
-  <rect width="8" height="16" fill="#2563EB" opacity="0.08"/>
-  <rect x="8" width="8" height="16" fill="#60A5FA" opacity="0.04"/>
-</pattern>
+    <pattern id="diagonalLines"
+             width="18"
+             height="18"
+             patternUnits="userSpaceOnUse"
+             patternTransform="rotate(20)">
 
-  <!-- Stripes Background -->
-  <rect width="1600" height="500" fill="url(#stripes)"/>
+      <line
+        x1="0"
+        y1="0"
+        x2="0"
+        y2="18"
+        stroke="#2563EB"
+        stroke-width="2"
+        opacity="0.12"/>
 
-  <!-- Shadow Layers -->
-  <text
-    x="50%"
-    y="48%"
-    text-anchor="middle"
-    font-family="Poppins, Arial, sans-serif"
-    font-size="140"
-    font-weight="900"
-    fill="#2563EB"
-    opacity="0.15"
-    transform="translate(20,20)">
+    </pattern>
+
+    <linearGradient id="engineerGradient"
+                    x1="0%"
+                    y1="0%"
+                    x2="100%"
+                    y2="100%">
+
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- Fondo transparente con líneas -->
+
+  <rect width="100%"
+        height="100%"
+        fill="url(#diagonalLines)" />
+
+  <!-- Capas FULLSTACK -->
+
+  <g opacity="0.9">
+
+    <text x="800" y="210"
+          text-anchor="middle"
+          font-family="Arial Black, sans-serif"
+          font-size="170"
+          fill="#001B5E"
+          transform="translate(36,36)">
+      FULLSTACK
+    </text>
+
+    <text x="800" y="210"
+          text-anchor="middle"
+          font-family="Arial Black, sans-serif"
+          font-size="170"
+          fill="#002A8A"
+          transform="translate(28,28)">
+      FULLSTACK
+    </text>
+
+    <text x="800" y="210"
+          text-anchor="middle"
+          font-family="Arial Black, sans-serif"
+          font-size="170"
+          fill="#003ECF"
+          transform="translate(20,20)">
+      FULLSTACK
+    </text>
+
+  </g>
+
+  <!-- Capas ENGINEER -->
+
+  <g opacity="0.9">
+
+    <text x="800" y="390"
+          text-anchor="middle"
+          font-family="Arial Black, sans-serif"
+          font-size="145"
+          fill="#001B5E"
+          transform="translate(36,36)">
+      ENGINEER
+    </text>
+
+    <text x="800" y="390"
+          text-anchor="middle"
+          font-family="Arial Black, sans-serif"
+          font-size="145"
+          fill="#002A8A"
+          transform="translate(28,28)">
+      ENGINEER
+    </text>
+
+    <text x="800" y="390"
+          text-anchor="middle"
+          font-family="Arial Black, sans-serif"
+          font-size="145"
+          fill="#003ECF"
+          transform="translate(20,20)">
+      ENGINEER
+    </text>
+
+  </g>
+
+  <!-- Texto principal -->
+
+  <text x="800"
+        y="210"
+        text-anchor="middle"
+        font-family="Arial Black, sans-serif"
+        font-size="170"
+        fill="#FFFFFF"
+        filter="url(#glow)">
     FULLSTACK
   </text>
 
-  <text
-    x="50%"
-    y="72%"
-    text-anchor="middle"
-    font-family="Poppins, Arial, sans-serif"
-    font-size="110"
-    font-weight="900"
-    fill="#2563EB"
-    opacity="0.15"
-    transform="translate(20,20)">
-    ENGINEER
-  </text>
-
-  <!-- Main Text -->
-  <text
-    x="50%"
-    y="48%"
-    text-anchor="middle"
-    font-family="Poppins, Arial, sans-serif"
-    font-size="140"
-    font-weight="900"
-    fill="white"
-    filter="url(#glow)">
-    FULLSTACK
-  </text>
-
-  <text
-    x="50%"
-    y="72%"
-    text-anchor="middle"
-    font-family="Poppins, Arial, sans-serif"
-    font-size="110"
-    font-weight="900"
-    fill="url(#blueGlow)"
-    filter="url(#glow)">
+  <text x="800"
+        y="390"
+        text-anchor="middle"
+        font-family="Arial Black, sans-serif"
+        font-size="145"
+        fill="url(#engineerGradient)"
+        filter="url(#glow)">
     ENGINEER
   </text>
 
