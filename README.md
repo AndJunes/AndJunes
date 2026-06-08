@@ -10,14 +10,14 @@
 ---
 ## Technology Stack
 
-### <img src="https://cdn.simpleicons.org/code" width="18"/> Languages
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
 
-### <img src="https://cdn.simpleicons.org/html5" width="18"/> Frontend
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -25,21 +25,21 @@
   <img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF" />
 </p>
 
-### <img src="https://cdn.simpleicons.org/serverfault" width="18"/> Backend
+### Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" />
 </p>
 
-### <img src="https://cdn.simpleicons.org/postgresql" width="18"/> Databases
+### Databases
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=00A4D3" />
 </p>
 
-### <img src="https://cdn.simpleicons.org/cloudflare" width="18"/> Cloud & Infrastructure
+### Cloud & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
