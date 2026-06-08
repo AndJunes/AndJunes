@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <em>I design and ship web products end&#8209;to&#8209;end — from React&nbsp;/&nbsp;Next.js interfaces to FastAPI&nbsp;&amp;&nbsp;Node services and Postgres.</em>
+  <em>I design and ship web products end&#8209;to&#8209;end, from React&nbsp;/&nbsp;Next.js interfaces to FastAPI&nbsp;&amp;&nbsp;Node services and Postgres.</em>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 
 ### <img src="https://api.iconify.design/ph/compass-fill.svg?color=%233B82F6" height="23" alt="" />&nbsp; Brújula · Fintech / Escrow on Stellar
 
-Freelancer payments held in **USDC escrow on the Stellar network** until the client approves the work — clients fund and release escrow from their Freighter wallet without ever touching the underlying smart contracts.
+Freelancer payments held in **USDC escrow on the Stellar network** until the client approves the work. Clients fund and release escrow from their Freighter wallet without ever touching the underlying smart contracts.
 
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=FFFFFF" />
