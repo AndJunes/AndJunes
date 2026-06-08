@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Andrea</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=48&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=900&height=100&lines=FULL+STACK+ENGINEER" />
 </p>
@@ -12,13 +13,14 @@
   <img src="https://drive.google.com/uc?export=view&id=1NN1qt9WpCjX9f_igu_E7-lkAGpthjUOM" alt="Imagen Laburando" width="800" />
 </div>
 
+
 <div align="center">
 
-## Projects
-
-<br/>
+<h1 align="center">🅟🅡🅞🅙🅔🅒🅣🅢</h1>
 
 </div>
+
+
 
 ### Brújula · Fintech / Escrow on Stellar
 
@@ -32,7 +34,7 @@ Freelancer payments held in **USDC escrow on the Stellar network** until the cli
 
 <div align="center">
 
-## Technology Stack
+<h1 align="center">🅣🅔🅒🅗🅝🅞🅛🅞🅖🅨 🅢🅣🅐🅒🅚</h1>
 
 <br/>
 
