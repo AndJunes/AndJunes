@@ -20,7 +20,7 @@
 
 </div>
 
-
+---
 
 ### Brújula · Fintech / Escrow on Stellar
 
@@ -77,45 +77,15 @@ Freelancer payments held in **USDC escrow on the Stellar network** until the cli
 </table>
 
 </div>
----
-
-### 👩‍💻 About Me
-
-- Frontend-focused developer with hands-on experience in **React, TypeScript, and modern CSS**
-- Background as **QA Junior**, bringing strong attention to UI reliability, edge cases, and user experience
-- Actively involved in **Web3 hackathons**, building user-facing dApps and onboarding flows
-- Comfortable collaborating in **English** with product, design, and engineering teams
-- Winner of **Celo Mexico Buildathon (1st Place)**
 
 ---
 
-### 🚀 Current Work & Focus
+<h1 align="center">🅒🅞🅝🅣🅐🅒🅣</h1>
 
-- 🔭 Working on frontend projects using **React + TypeScript**
-- 🌱 Deepening skills in **Next.js, frontend architecture, and Web3 UX**
-- 🧪 Applying QA mindset to frontend development (testing, validation, UX polish)
-- 🧠 Learning by building — not tutorials-only
-
----
-
-### 🧠 Web3 Experience
-
-- 🥇 **Celo Mexico Buildathon – 1st Place**
-- 🧩 Participant at **Stellar Hacks 2025** & **ETH Global 2025**
-- Built Web3 frontends integrating:
-  - Wallet connections & signing flows
-  - Blockchain-based interactions
-  - User-focused onboarding UX
+- Email: **junesandrea56@gmail.com**
+- LinkedIn: [linkedin.com/in/andrea-junes](https://www.linkedin.com/in/andrea-junes/)
+- GitHub: [github.com/AndJunes](https://github.com/AndJunes)
 
 ---
-
-
-### 📫 Contact
-
-- 📧 Email: **junesandrea56@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/andrea-junes](https://www.linkedin.com/in/andrea-junes/)
-- 🧑‍💻 GitHub: [github.com/AndJunes](https://github.com/AndJunes)
-
-
 
 ⚡ Fun fact: I'm obsessed with Pokémon cards 🃏
