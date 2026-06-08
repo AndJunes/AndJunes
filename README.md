@@ -1,28 +1,23 @@
 <h1 align="center">Hi, I'm Andrea</h1>
 <svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<linearGradient id="blueGlow" x1="0" y1="0" x2="1600" y2="0">
+  <stop offset="0%" stop-color="#2563EB"/>
+  <stop offset="50%" stop-color="#60A5FA"/>
+  <stop offset="100%" stop-color="#2563EB"/>
+</linearGradient>
 
-  <defs>
+<filter id="glow">
+  <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+  <feMerge>
+    <feMergeNode in="coloredBlur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
 
-    <linearGradient id="blueGlow" x1="0" y1="0" x2="1600" y2="0">
-      <stop offset="0%" stop-color="#2563EB"/>
-      <stop offset="50%" stop-color="#60A5FA"/>
-      <stop offset="100%" stop-color="#2563EB"/>
-    </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <pattern id="stripes" width="16" height="16" patternUnits="userSpaceOnUse">
-      <rect width="8" height="16" fill="#2563EB" opacity="0.08"/>
-      <rect x="8" width="8" height="16" fill="#60A5FA" opacity="0.04"/>
-    </pattern>
-
-  </defs>
+<pattern id="stripes" width="16" height="16" patternUnits="userSpaceOnUse">
+  <rect width="8" height="16" fill="#2563EB" opacity="0.08"/>
+  <rect x="8" width="8" height="16" fill="#60A5FA" opacity="0.04"/>
+</pattern>
 
   <!-- Stripes Background -->
   <rect width="1600" height="500" fill="url(#stripes)"/>
