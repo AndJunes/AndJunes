@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=andjunes&label=Profile%20views&color=0e75b6&style=flat" alt="andjunes" />
 </p>
 
-<img src="https://drive.google.com/file/d/1NN1qt9WpCjX9f_igu_E7-lkAGpthjUOM/view?usp=sharing" alt="Imagen Laburando" />
+<img src="https://drive.google.com/uc?export=view&id=1NN1qt9WpCjX9f_igu_E7-lkAGpthjUOM" alt="Imagen Laburando" />
 
 ---
 
