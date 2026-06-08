@@ -1,7 +1,87 @@
 <h1 align="center">Hi, I'm Andrea</h1>
-<h3 align="center">Fullstack Engineer</h3>
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-<p align="left">
+  <defs>
+
+    <linearGradient id="blueGlow" x1="0" y1="0" x2="1600" y2="0">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="stripes" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="8" height="16" fill="#2563EB" opacity="0.08"/>
+      <rect x="8" width="8" height="16" fill="#60A5FA" opacity="0.04"/>
+    </pattern>
+
+  </defs>
+
+  <!-- Stripes Background -->
+  <rect width="1600" height="500" fill="url(#stripes)"/>
+
+  <!-- Shadow Layers -->
+  <text
+    x="50%"
+    y="48%"
+    text-anchor="middle"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="140"
+    font-weight="900"
+    fill="#2563EB"
+    opacity="0.15"
+    transform="translate(20,20)">
+    FULLSTACK
+  </text>
+
+  <text
+    x="50%"
+    y="72%"
+    text-anchor="middle"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="110"
+    font-weight="900"
+    fill="#2563EB"
+    opacity="0.15"
+    transform="translate(20,20)">
+    ENGINEER
+  </text>
+
+  <!-- Main Text -->
+  <text
+    x="50%"
+    y="48%"
+    text-anchor="middle"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="140"
+    font-weight="900"
+    fill="white"
+    filter="url(#glow)">
+    FULLSTACK
+  </text>
+
+  <text
+    x="50%"
+    y="72%"
+    text-anchor="middle"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="110"
+    font-weight="900"
+    fill="url(#blueGlow)"
+    filter="url(#glow)">
+    ENGINEER
+  </text>
+
+</svg>
+
+<p align="left" style=">
   <img src="https://komarev.com/ghpvc/?username=andjunes&label=Profile%20views&color=0e75b6&style=flat" alt="andjunes" />
 </p>
 
