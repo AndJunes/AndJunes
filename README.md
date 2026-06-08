@@ -134,10 +134,7 @@ An AI technical interviewer (in English) that asks questions by module, **adapts
 <h1>🅖🅘🅣🅗🅤🅑 🅢🅣🅐🅣🅢</h1>
 </div>
 
-<div align="center">
-  <img height="165" alt="Andrea's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AndJunes&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=3B82F6&icon_color=2563EB&text_color=E5E7EB&bg_color=0D1117" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndJunes&layout=compact&hide_border=true&langs_count=8&title_color=3B82F6&text_color=E5E7EB&bg_color=0D1117" />
-</div>
+
 
 <div align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=AndJunes&hide_border=true&background=0D1117&stroke=1F2937&ring=2563EB&fire=3B82F6&currStreakNum=E5E7EB&currStreakLabel=3B82F6&sideNums=E5E7EB&sideLabels=9CA3AF&dates=6B7280" />
