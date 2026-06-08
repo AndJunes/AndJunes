@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">Frontend Engineer (React / TypeScript) with Web3 & QA background</h3>
+<h1 align="center">Hi, I'm Andrea</h1>
+<h3 align="center">Fullstack Engineer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=andjunes&label=Profile%20views&color=0e75b6&style=flat" alt="andjunes" />
