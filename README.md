@@ -8,16 +8,20 @@
 <img src="https://drive.google.com/uc?export=view&id=1NN1qt9WpCjX9f_igu_E7-lkAGpthjUOM" alt="Imagen Laburando" />
 
 ---
+<div align="center">
+
 ## Technology Stack
 
-### Languages
+<br/>
+
+<img src="https://img.shields.io/badge/LANGUAGES-2563EB?style=for-the-badge&labelColor=2563EB" />
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
 </p>
 
-### Frontend
+<img src="https://img.shields.io/badge/FRONTEND-2563EB?style=for-the-badge&labelColor=2563EB" />
 
 <p>
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -25,25 +29,29 @@
   <img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF" />
 </p>
 
-### Backend
+<img src="https://img.shields.io/badge/BACKEND-2563EB?style=for-the-badge&labelColor=2563EB" />
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" />
 </p>
 
-### Databases
+<img src="https://img.shields.io/badge/DATABASES-2563EB?style=for-the-badge&labelColor=2563EB" />
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=00A4D3" />
 </p>
 
-### Cloud & Infrastructure
+<img src="https://img.shields.io/badge/CLOUD%20%26%20INFRASTRUCTURE-2563EB?style=for-the-badge&labelColor=2563EB" />
 
 <p>
   <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 </p>
+
+</div>
+
+---
 
 ### 👩‍💻 About Me
 
