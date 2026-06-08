@@ -83,27 +83,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-**Frontend**
-- React, TypeScript, JavaScript (ES6+)
-- HTML5, CSS3, Tailwind CSS, Bootstrap
-
-**Backend & APIs**
-- Node.js, Express
-- REST APIs, JWT Authentication
-
-**Web3**
-- Blockchain fundamentals
-- dApp development (hackathon-based)
-- Wallet & transaction concepts
-
-**QA & Workflow**
-- Manual testing, bug reporting, regression testing
-- Git, GitHub, Agile/Scrum
-- CI/CD fundamentals
-
----
 
 ### 📫 Contact
 
