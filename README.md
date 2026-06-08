@@ -28,7 +28,7 @@ Freelancer payments held in **USDC escrow on the Stellar network** until the cli
 
 `Next.js` `TypeScript` `Prisma` `Stellar SDK` `Trustless Work API`
 
-[Live demo](https://brujula-dev.vercel.app) · [Source](https://github.com/AndJunes/brujulaDev)
+[Live demo]([https://brujula-dev.vercel.app](https://www.agentbrujula.com/)) · [Source](https://github.com/AndJunes/brujulaDev)
 
 ---
 
