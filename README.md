@@ -33,13 +33,6 @@
   <img src="https://komarev.com/ghpvc/?username=andjunes&label=Profile%20views&color=2563EB&style=flat-square" alt="Profile views" />
 </p>
 
-<!-- ⚠️ HOSTING: Google Drive image links frequently FAIL to render on GitHub.
-     Fix: drag-and-drop this photo into any GitHub issue/PR comment box, copy the
-     resulting https://user-images.githubusercontent.com/... URL, and paste it below. -->
-<div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1NN1qt9WpCjX9f_igu_E7-lkAGpthjUOM" alt="Andrea at work" width="820" />
-</div>
-
 ---
 
 <div align="center">
